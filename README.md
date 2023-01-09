@@ -1,6 +1,6 @@
 # JavaScript_Mini_Projs
 <h1>Contains:</h1>
-
-  <a>Carousels</a>
+<ul>
+  <li><kbd>Carousels</kbd></li>
   <li>Filterable Images</li>
 </ul>
