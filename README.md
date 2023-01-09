@@ -2,5 +2,5 @@
 <h1>Contains:</h1>
 <ul>
   <li><kbd>Carousels</kbd></li>
-  <li>Filterable Images</li>
+  <li><kbd>Filterable Images</kbd></li>
 </ul>
